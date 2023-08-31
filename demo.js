@@ -7,3 +7,5 @@ skljdfalksj;define([
     'use strict';
     
 });
+
+console.log("i am demo");
